@@ -1,2 +1,3 @@
 # SQL_Creating-a-Logistics-Database
 I used data from a previous employer to take a deep dive in Logistics, supply chain and finances of a few products. Although there is not a large amount of data the general concepts are the same and the queries can be used at scale.
+I really learned the greatest product to have in a warehouse or fulfilment center is makeup the margins are disgustingly high and the items are the easiest and smallest to work with. The concept of micro fulfillment centers is great and a make up/ beauty product only fulfillment center has the potential to be incredibly profitable. 
